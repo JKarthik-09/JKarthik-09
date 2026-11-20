@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090D16,50:162238,100:1E3A5F&height=190&section=header&text=Arjun&fontSize=50&fontColor=38BDF8&animation=fadeIn&fontAlignY=36&desc=Data%20Science%20%E2%80%A2%20Systems%20%E2%80%A2%20Applied%20AI&descAlignY=60&descSize=16&descColor=E2E8F0" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090D16,50:162238,100:1E3A5F&height=190&section=header&text=Karthik&fontSize=50&fontColor=38BDF8&animation=fadeIn&fontAlignY=36&desc=Data%20Science%20%E2%80%A2%20Systems%20%E2%80%A2%20Applied%20AI&descAlignY=60&descSize=16&descColor=E2E8F0" width="100%" />
 </div>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ### ⚡ Philosophy & Focus
 
-I’m a **Data Science graduate (B.Tech, 2025)** with real-world operational grounding at **Amazon**, focused on **Data Analytics, SQL, Systems Thinking, and Applied AI**. Rather than skimming the surface, I build from the ground up—breaking complex problems into clean, testable code and shipping daily.
+I’m **Karthik**, a **Data Science graduate (B.Tech, 2025)** with real-world operational grounding at **Amazon**, focused on **Data Analytics, SQL, Systems Thinking, and Applied AI**. Rather than skimming the surface, I build from the ground up—breaking complex problems into clean, testable code and shipping daily.
 
 - 🧠 **Core Mindset:** First-principles engineering — understand *why* it works before scaling it
 - 🛠️ **Daily Craft:** Querying messy datasets, modeling patterns, and building practical AI tools
@@ -42,13 +42,13 @@ I’m a **Data Science graduate (B.Tech, 2025)** with real-world operational gro
 ### 🧊 Live Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Live Contribution Wave" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JKarthik-09&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Live Contribution Wave" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=midnight-purple&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JKarthik-09&theme=midnight-purple&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
